@@ -1,5 +1,9 @@
 #ifndef MAIN_H
 #define MAIN_H
+
+#ifndef printf_h 
+#define printf_h
+
 #include <stdarg.h>
 #include <stdio.h>
 #include <unistd.h>
